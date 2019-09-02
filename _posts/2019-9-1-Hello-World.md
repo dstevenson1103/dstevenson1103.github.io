@@ -13,3 +13,10 @@ This needs to be within the:
 ```csharp
 static void Main(){      }
 ```
+
+layout: post
+title: test
+categories: test
+```csharp
+Console.WriteLine("this is a test");
+```
